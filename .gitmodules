@@ -1,0 +1,12 @@
+[submodule "JavaUtils"]
+	path = JavaUtils
+	url = git@github.com:epsilony/JavaUtils.git
+[submodule "SimpMeshfree"]
+	path = SimpMeshfree
+	url = git@github.com:epsilony/SimpMeshfree.git
+[submodule "j-iso"]
+	path = j-iso
+	url = git@github.com:epsilony/j-iso.git
+[submodule "simpmeshfree_gui"]
+	path = simpmeshfree_gui
+	url = git@github.com:epsilony/simpmeshfree_gui.git
